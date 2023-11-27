@@ -1,0 +1,158 @@
+<!--==================== EXPLORE ====================-->
+ <section class="explore section" id="explore">
+    <div class="explore__container">
+       <div class="explore__image">
+          <img src="assets/img/explore-beach.jpg" alt="expore image" class="explore__img">
+          <div class="explore__shadow"></div>
+       </div>
+
+       <div class="explore__content container grid">
+          <div class="explore__data">
+             <h2 class="section__title">
+                Furkan'ın Mutfağını <br> 
+                Keşfedin
+             </h2>
+
+             <p class="explore__description">
+                Merhaba ben Furkan. Web Siteme Hoş Geldiniz. <br><br>
+             Kendimden biraz bahsetmem gerekirse; 10 ocak 1980 tarihinde Denizli'de dünyaya geldim ve yaklaşık 15 yıldır şeflik yapıyorum.
+             Youtube kanalımda ve burada bildiklerimi sizlere aktarıyor olacağım. <br><br>Takipte kalın :)
+          </p>
+          </div>
+
+          <div class="explore__user">
+             <img src="assets/img/explore-perfil.png" alt="explore image" class="explore__perfil">
+             <span class="explore__name">Furkan Berrak</span>
+          </div>
+       </div>
+    </div>
+ </section>
+ 
+
+
+</main>
+
+<!--==================== FOOTER ====================-->
+<footer class="footer">
+ <div class="footer__container container grid">
+    <div class="footer__content grid">
+       <div>
+          <a href="#" class="footer__logo">Furkan'ın Mutfağı</a>
+
+          <p class="footer__description">
+             Haydi hep birlikte bu <br> 
+             güzel tatları keşfedelim.
+          </p>
+       </div>
+
+       <div class="footer__data grid">
+          <div>
+             <h3 class="footer__title">Hakkımızda</h3>
+
+             <ul class="footer__links">
+                <li>
+                   <a href="#" class="footer__link">Hakkımızda</a>
+                </li>
+
+                <li>
+                   <a href="#" class="footer__link">Gelecekte</a>
+                </li>
+                
+                <li>
+                   <a href="#" class="footer__link">Haberler</a>
+                </li>
+             </ul>
+          </div>
+
+          <div>
+             <h3 class="footer__title">İletişim</h3>
+
+             <ul class="footer__links">
+                <li>
+                   <a href="#" class="footer__link">Telefon</a>
+                </li>
+
+                <li>
+                   <a href="#" class="footer__link">E-Posta</a>
+                </li>
+
+                <li>
+                   <a href="#" class="footer__link">Fax</a>
+                </li>
+             </ul>
+          </div>
+
+          <div>
+             <h3 class="footer__title">Sosyal Medya</h3>
+
+             <ul class="footer__links">
+                <li>
+                   <a href="https://www.facebook.com" class="footer__link">Facebook</a>
+                </li>
+
+                <li>
+                   <a href="https://www.instagram.com/" class="footer__link">İnstagram</a>
+                </li>
+
+                <li>
+                   <a href="https://twitter.com/" class="footer__link">Twitter</a>
+                </li>
+             </ul>
+          </div>
+
+          <div>
+             <h3 class="footer__title">Destek</h3>
+
+             <ul class="footer__links">
+                <li>
+                   <a href="#" class="footer__link">Şikayet</a>
+                </li>
+
+                <li>
+                   <a href="#" class="footer__link">Önerileriniz</a>
+                </li>
+
+                <li>
+                   <a href="#" class="footer__link">Ödemeler</a>
+                </li>
+             </ul>
+          </div>
+       </div>
+    </div>
+
+    <div class="footer__group">
+       <div class="footer__social">
+          <a href="https://www.facebook.com" target="_blank" class="footer__social-link">
+             <i class="ri-facebook-line"></i>
+          </a>
+
+          <a href="https://www.instagram.com/" target="_blank" class="footer__social-link">
+             <i class="ri-instagram-line"></i>
+          </a>
+
+          <a href="https://twitter.com/" target="_blank" class="footer__social-link">
+             <i class="ri-twitter-line"></i>
+          </a>
+
+          <a href="https://www.youtube.com/" target="_blank" class="footer__social-link">
+             <i class="ri-youtube-line"></i>
+          </a>
+       </div>
+
+       <span class="footer__copy">
+          
+       </span>
+    </div>
+ </div>
+</footer>
+
+<!--========== SCROLL UP ==========-->
+<a href="#" class="scrollup" id="scroll-up">
+ <i class="ri-arrow-up-line"></i>
+</a>
+
+<!--=============== SCROLLREVEAL ===============-->
+<script src="assets/js/scrollreveal.min.js"></script>
+
+<!--=============== MAIN JS ===============-->
+<script src="assets/js/main.js"></script>
